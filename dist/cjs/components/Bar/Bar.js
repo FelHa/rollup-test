@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=require("react"),r=require("./Bar.module.scss.js"),t=require("../Foo/Foo.js");function a(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var u=a(e);exports.default=function(e){var a=e.message;return u.default.createElement("div",{className:r.default.bar},"Bar: ",a,u.default.createElement(t.default,{message:"lazy foo"}))};
+//# sourceMappingURL=Bar.js.map
